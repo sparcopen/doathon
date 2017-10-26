@@ -29,8 +29,7 @@ Note: Challenge leads will not need to fill out this section and can remove it.
 ============================"
 
 ##  How can others contribute?
-[//]: # "=======================
-Please say what the best way to contribute to the project or challenge is, sometimes that will just be "let's discuss here" or "I've started a Google doc". 
+[//]: # "======================= Please say what the best way to contribute to the project or challenge is, sometimes that will just be "let's discuss here" or "I've started a Google doc". 
 
 __If you are a challenge lead__, give some context on what design thinking tools you'll be using, and how other folks can update their ideas onto the thread. 
 
@@ -40,8 +39,7 @@ __Language__:If your project is regionally based in a non-English-speaking regio
 
 __If you're leading a project/challenge participating remotely__: Use this space to let people know that this is a remote project, and that you are not "in the room" in Berlin. Let other participants know what the best way to get in touch with you, where the work will happen, and where any updates or outputs will go. 
 
-__If you're at the in-person meeting in Berlin__: Be as inclusive as possible to those outside the room.  Use this space to give clear instructions to those participating in the do-a-thon remotely on how they can keep up to date and contribute. 
-============================"
+__If you're at the in-person meeting in Berlin__: Be as inclusive as possible to those outside the room.  Use this space to give clear instructions to those participating in the do-a-thon remotely on how they can keep up to date and contribute. ============================"
 
 ### end. 
 [//]: # "=======================
