@@ -33,6 +33,7 @@ Note: Challenge leads will not need to fill out this section and can remove it.
 Please say what the best way to contribute to the project or challenge is, sometimes that will just be "let's discuss here" or "I've started a Google doc". If you are a challenge lead, give some context on what design thinking tools you'll be using, and how other folks can update their ideas onto the thread. If you're a project lead, and you already have clear ways people can contribute it might be worth linking to them here.
 ============================"
 
+### end. 
 [//]: # "=======================
 After posting your issue, the real work begins. Next you might want to:
    Tweet a link to this issue with #opencon so others can join in
