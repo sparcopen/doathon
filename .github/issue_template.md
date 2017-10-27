@@ -41,8 +41,8 @@ __If you're leading a project/challenge participating remotely__: Use this space
 
 __If you're at the in-person meeting in Berlin__: Be as inclusive as possible to those outside the room.  Use this space to give clear instructions to those participating in the do-a-thon remotely on how they can keep up to date and contribute. ============================"
 
-### end. 
 [//]: # "=======================
+# end
 After posting your issue, the real work begins. Next you might want to:
    Tweet a link to this issue with #opencon so others can join in
    Make another issue to involve people in your work - remember to use your metadata
