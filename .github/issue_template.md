@@ -30,11 +30,11 @@ Note: Challenge leads will not need to fill out this section and can remove it.
 
 ##  How can others contribute?
 [//]: # "======================= Please say what the best way to contribute to the project or challenge is, sometimes that will just be "let's discuss here" or "I've started a Google doc". 
-__If you are a challenge lead__, give some context on what design thinking tools you'll be using, and how other folks can update their ideas onto the thread. 
-__If you're a project lead__, and you already have clear ways people can contribute it might be worth linking to them here.
-__Language__:If your project is regionally based in a non-English-speaking region, clarify here what language you and contributors will primarily be communicating in. 
-__If you're leading a project/challenge participating remotely__: Use this space to let people know that this is a remote project, and that you are not "in the room" in Berlin. Let other participants know what the best way to get in touch with you, where the work will happen, and where any updates or outputs will go. 
-__If you're at the in-person meeting in Berlin__: Be as inclusive as possible to those outside the room.  Use this space to give clear instructions to those participating in the do-a-thon remotely on how they can keep up to date and contribute. ============================"
+If you are a challenge lead, give some context on what design thinking tools you'll be using, and how other folks can update their ideas onto the thread. 
+If you're a project lead, and you already have clear ways people can contribute it might be worth linking to them here.
+Language:If your project is regionally based in a non-English-speaking region, clarify here what language you and contributors will primarily be communicating in. 
+If you're leading a project/challenge participating remotely: Use this space to let people know that this is a remote project, and that you are not "in the room" in Berlin. Let other participants know what the best way to get in touch with you, where the work will happen, and where any updates or outputs will go. 
+If you're at the in-person meeting in Berlin: Be as inclusive as possible to those outside the room.  Use this space to give clear instructions to those participating in the do-a-thon remotely on how they can keep up to date and contribute. ============================"
 
 [//]: # "=======================
 You're ready to post!!! After posting your issue, the real work begins. Next you might want to:
