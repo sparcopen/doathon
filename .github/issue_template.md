@@ -30,7 +30,7 @@ Note: Challenge leads will not need to fill out this section and can remove it.
 
 ##  How can others contribute?
 [//]: # "======================= 
-Please say what the best way to contribute to the project or challenge is, sometimes that will just be lets discuss here or Ive started a Google doc. 
+Please say what the best way to contribute to the project or challenge is, sometimes that will just be 'lets discuss here' or Ive started a Google doc. 
 If you are a challenge lead, give some context on what design thinking tools you will be using, and how other folks can update their ideas onto the thread. 
 If you are a project lead, and you already have clear ways people can contribute it might be worth linking to them here.
 Language:If your project is regionally based in a non-English-speaking region, clarify here what language you and contributors will primarily be communicating in. 
