@@ -13,7 +13,7 @@
 		<meta name="keywords" content="" />
 		<link rel="icon" type="image/x-icon" href="/images/favicon.ico" />
 		<!--[if lte IE 8]><script src="js/html5shiv.js"></script><![endif]-->
-		
+
 		<!--  Essential META Tags -->
 
 		<meta property="og:title" content="OpenCon 2017 Do-A-Thon">
@@ -23,11 +23,24 @@
 		<meta name="twitter:card" content="summary_large_image">
 		<meta name="twitter:site" content="@open_con" />
 
-		
+
 		<script src="js/jquery.min.js"></script>
 		<script src="js/skel.min.js"></script>
 		<script src="js/skel-layers.min.js"></script>
 		<script src="js/init.js"></script>
+
+		<style type="text/css">
+			.hidden {display:none;}
+		</style>
+		<script type="text/javascript" src="/scripts/jquery.js"></script>
+		<script type="text/javascript">
+			$('html').addClass('hidden');
+			$(document).ready(function() {    // EDIT: From Adam Zerner's comment below: Rather use load: $(window).on('load', function () {...});
+				$('html').show();  // EDIT: Can also use $('html').removeClass('hidden');
+			 });
+		 </script>
+
+		 
 		<noscript>
 			<link rel="stylesheet" href="css/skel.css" />
 			<link rel="stylesheet" href="css/style.css" />
