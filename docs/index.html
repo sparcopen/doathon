@@ -27,6 +27,18 @@
 		<script src="js/skel.min.js"></script>
 		<script src="js/skel-layers.min.js"></script>
 		<script src="js/init.js"></script>
+
+		<style type="text/css">
+			.hidden {display:none;}
+		</style>
+		<script type="text/javascript" src="/scripts/jquery.js"></script>
+		<script type="text/javascript">
+			$('html').addClass('hidden');
+			$(document).ready(function() {    // EDIT: From Adam Zerner's comment below: Rather use load: $(window).on('load', function () {...});
+				$('html').show();  // EDIT: Can also use $('html').removeClass('hidden');
+			 });
+		 </script>
+		 
 		<noscript>
 			<link rel="stylesheet" href="css/skel.css" />
 			<link href="https://fonts.googleapis.com/css?family=Open+Sans:100,400,700" rel="stylesheet" type="text/css">
