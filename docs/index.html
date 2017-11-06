@@ -12,41 +12,20 @@
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
 		<link rel="icon" type="image/x-icon" href="/images/favicon.ico" />
-		<!--[if lte IE 8]><script src="js/html5shiv.js"></script><![endif]-->
 
-		<!--  Essential META Tags -->
-
-		<meta property="og:title" content="OpenCon 2017 Do-A-Thon">
-		<meta property="og:description" content="We invite you to join us for a day of making, collaborating, trying, teaching, designing, testing, and learning in the name of Open Research and Education.">
-		<meta property="og:image" content="/images/social.png">
-		<meta property="og:url" content="http://doathon.opencon2017.org">
-		<meta name="twitter:card" content="summary_large_image">
-		<meta name="twitter:site" content="@open_con" />
-
-		<script src="js/jquery.min.js"></script>
-		<script src="js/skel.min.js"></script>
-		<script src="js/skel-layers.min.js"></script>
-		<script src="js/init.js"></script>
-
-		<style type="text/css">
-			.hidden {display:none;}
-		</style>
-		<script type="text/javascript" src="/scripts/jquery.js"></script>
-		<script type="text/javascript">
-			$('html').addClass('hidden');
-			$(document).ready(function() {    // EDIT: From Adam Zerner's comment below: Rather use load: $(window).on('load', function () {...});
-				$('html').show();  // EDIT: Can also use $('html').removeClass('hidden');
-			 });
-		 </script>
-		 
-		<noscript>
-			<link rel="stylesheet" href="css/skel.css" />
-			<link href="https://fonts.googleapis.com/css?family=Open+Sans:100,400,700" rel="stylesheet" type="text/css">
-			<link href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css">
-			<link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
-			<link rel="stylesheet" href="css/style.css" />
-			<link rel="stylesheet" href="css/style-xlarge.css" />
-		</noscript>
+	<link rel="stylesheet" href="css/style.css" />
+	<link rel="stylesheet" href="css/skel.css" />
+	<link rel="stylesheet" href="css/style-xlarge.css" />
+	<style type="text/css">
+    .hidden {display:none;}
+  </style>
+  <script type="text/javascript" src="js/jquery.min.js"></script>
+  <script type="text/javascript">
+    $('html').addClass('hidden');
+    $(document).ready(function() {    // EDIT: From Adam Zerner's comment below: Rather use load: $(window).on('load', function () {...});
+      $('html').show();  // EDIT: Can also use $('html').removeClass('hidden');
+     });
+   </script>
 
 		<!-- Global site tag (gtag.js) - Google Analytics -->
 		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-61115389-4"></script>
@@ -56,16 +35,16 @@
   		gtag('js', new Date());
   		gtag('config', 'UA-61115389-4');
 		</script>
-
-
-	<!-- Start of opencon Zendesk Widget script -->
-	<script>/*<![CDATA[*/window.zEmbed||function(e,t){var n,o,d,i,s,a=[],r=document.createElement("iframe");window.zEmbed=function(){a.push(arguments)},window.zE=window.zE||window.zEmbed,r.src="javascript:false",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="display: none",d=document.getElementsByTagName("script"),d=d[d.length-1],d.parentNode.insertBefore(r,d),i=r.contentWindow,s=i.document;try{o=s}catch(e){n=document.domain,r.src='javascript:var d=document.open();d.domain="'+n+'";void(0);',o=s}o.open()._l=function(){var e=this.createElement("script");n&&(this.domain=n),e.id="js-iframe-async",e.src="https://assets.zendesk.com/embeddable_framework/main.js",this.t=+new Date,this.zendeskHost="opencon.zendesk.com",this.zEQueue=a,this.body.appendChild(e)},o.write('<body onload="document._l();">'),o.close()}();
-	/*]]>*/</script>
-	<!-- End of opencon Zendesk Widget script -->
-
-
+		<!--  Essential META Tags -->
+		<meta property="og:title" content="OpenCon 2017 Do-A-Thon">
+		<meta property="og:description" content="We invite you to join us for a day of making, collaborating, trying, teaching, designing, testing, and learning in the name of Open Research and Education.">
+		<meta property="og:image" content="/images/social.png">
+		<meta property="og:url" content="http://doathon.opencon2017.org">
+		<meta name="twitter:card" content="summary_large_image">
+		<meta name="twitter:site" content="@open_con" />
 	</head>
 	<body class="landing">
+
 
 		<!-- Header -->
 
@@ -73,9 +52,9 @@
 				<h1><a href="#">OPENCON DO-A-THON</a></h1>
 				<nav id="nav">
 					<ul>
-						<li><a href="/challenge">SUBMIT CHALLENGE</a></li>
-						<li><a href="/project">SUBMIT PROJECT</a></li>
-						<li><a href="/participate">PARTICIPATE</a></li>
+						<li><a href="challenge">SUBMIT CHALLENGE</a></li>
+						<li><a href="project">SUBMIT PROJECT</a></li>
+						<li><a href="participate">PARTICIPATE</a></li>
 					</ul>
 				</nav>
 			</header>
@@ -118,7 +97,7 @@
 								<p>
 									Is there a specific issue or problem you want to tackle in Open Research and Education?
 								</p>
-								<a href="/challenge" class="button big"> Submit a challenge </a>
+								<a href="challenge" class="button big"> Submit a challenge </a>
 							</section>
 						</div>
 						<div class="4u 12u$(medium)">
@@ -131,7 +110,7 @@
 								<p>
 									Have a project or idea already in the works that needs support or collaborators?
 								</p>
-								<a href="/project" class="button big"> Submit a project </a>
+								<a href="project" class="button big"> Submit a project </a>
 							</section>
 						</div>
 						<div class="4u$ 12u$(medium)">
@@ -144,7 +123,7 @@
 								<p>
 									Browse challenges and projects put forward by others and see how you can help.
 								</p>
-								<a href="/participate" class="button big"> Participate </a>
+								<a href="participate" class="button big"> Participate </a>
 							</section><a name="about"></a>
 						</div>
 
@@ -204,7 +183,7 @@
 						 1. Anyone can propose a problem to work on.
 					 </h3>
 					<p>
-						Is there a big question or challenge you want to tackle in Open Research and Education? Here's a chance to share it with the community and work together on designing a solution. Participants can submit challenges the day of the do-a-thon, but we'd love if folks could submit big questions they want to tackle in advance, too.  Find out more about how to submit a challenge <u><a href="/challenge">here.</a></u>
+						Is there a big question or challenge you want to tackle in Open Research and Education? Here's a chance to share it with the community and work together on designing a solution. Participants can submit challenges the day of the do-a-thon, but we'd love if folks could submit big questions they want to tackle in advance, too.  Find out more about how to submit a challenge <u><a href="challenge">here.</a></u>
 					</p>
 
 					<h3>
@@ -218,7 +197,7 @@
 						 3. Anyone can contribute their skills and ideas to existing challenges and projects.
 					 </h3>
 					<p>
-						Participate from wherever you are by contributing to one or more of the do-a-thon projects and challenges submitted. We expect that most of the action will take place on November 13th, but feel free to get in touch with project leads and see how you can help out beforehand! You can explore the growing list of projects and challenges we're working on <u><a href="/participate">here</a></u>.
+						Participate from wherever you are by contributing to one or more of the do-a-thon projects and challenges submitted. We expect that most of the action will take place on November 13th, but feel free to get in touch with project leads and see how you can help out beforehand! You can explore the growing list of projects and challenges we're working on <u><a href="participate">here</a></u>.
 					</p>
 					</section>
 
@@ -306,6 +285,7 @@
 								<li><a href="http://www.opencon2017.org/" target="_blank">OpenCon 2017 Main Site</a></li>
 								<li><a href="http://www.opencon2017.org/code_of_conduct" target="_blank">Our Code of Conduct</a></li>
 								<li><a href="mailto:Lorraine@sparcopen.org" target="_blank">Feedback</a></li>
+								<li><a href="github-help" target="_blank">Github Help</a></li>
 							</ul>
 						</section>
 					</div>
@@ -330,6 +310,14 @@
 				</div>
 			</div>
 		</footer>
-
 	</body>
+	<script src="js/jquery.min.js"></script>
+	<script src="js/skel.min.js"></script>
+	<script src="js/skel-layers.min.js"></script>
+	<script src="js/init.js"></script>
+
+<!-- Start of opencon Zendesk Widget script -->
+<script>/*<![CDATA[*/window.zEmbed||function(e,t){var n,o,d,i,s,a=[],r=document.createElement("iframe");window.zEmbed=function(){a.push(arguments)},window.zE=window.zE||window.zEmbed,r.src="javascript:false",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="display: none",d=document.getElementsByTagName("script"),d=d[d.length-1],d.parentNode.insertBefore(r,d),i=r.contentWindow,s=i.document;try{o=s}catch(e){n=document.domain,r.src='javascript:var d=document.open();d.domain="'+n+'";void(0);',o=s}o.open()._l=function(){var e=this.createElement("script");n&&(this.domain=n),e.id="js-iframe-async",e.src="https://assets.zendesk.com/embeddable_framework/main.js",this.t=+new Date,this.zendeskHost="opencon.zendesk.com",this.zEQueue=a,this.body.appendChild(e)},o.write('<body onload="document._l();">'),o.close()}();
+/*]]>*/</script>
+<!-- End of opencon Zendesk Widget script -->
 </html>
