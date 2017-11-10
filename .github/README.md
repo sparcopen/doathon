@@ -1,7 +1,7 @@
 # OpenCon Do-A-Thon
 #### We invite you to join us for this day of making, doing, collaborating, trying, teaching, designing, testing, and learning in the name of Open Research and Education—from wherever you are.
 
-__Confused? New to Github? Find help to get involved on [our website](http://doathon.opencon2017.org/).__
+_Confused? New to Github? Find help to get involved on [our website](http://doathon.opencon2017.org/)._
 
 [![website screenshot](https://github.com/sparcopen/doathon-dev/blob/master/images/website-screenshot.png?raw=true)](http://doathon.opencon2017.org/index)
 
