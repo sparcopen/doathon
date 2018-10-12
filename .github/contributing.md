@@ -1,9 +1,9 @@
 # How to Get Involved
 
-You can find more information about contributing [here](http://doathon.opencon2017.org/).
+You can find more information about contributing [here](http://doathon.opencon2018.org/).
 
 <h2>What is a do-a-thon?</h2>
-<p>Building off the concept of a hackathon, a do-a-thon is a work-sprint where people from different skill sets work together and collaborate on different challenges and projects. For OpenCon 2017’s do-a-thon, we’ll be focusing on building projects and solutions that seek to advance Open Access, Open Education, and Open Data. </p>
+<p>Building off the concept of a hackathon, a do-a-thon is a work-sprint where people from different skill sets work together and collaborate on different challenges and projects. For OpenCon's do-a-thon, we’ll be focusing on building projects and solutions that seek to advance Open Access, Open Education, and Open Data. </p>
 <p>Our do-a-thon has three key goals:</p>
 
 <h3>1. Focus on <i>doing</i>, rather than just <i>hacking.</i></h3>

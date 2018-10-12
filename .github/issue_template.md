@@ -1,5 +1,5 @@
 
-_Confused? New to Github? Visit the [GitHub help page on our site for more information](http://doathon.opencon2017.org/)!_
+_Confused? New to Github? Visit the [GitHub help page on our site for more information](http://doathon.opencon2018.org/)!_
 
 [//]: # "=======================
 Even if you know Github well, we suggest you read this. Anything between these lines you can leave or delete, as they won't display anyway when you post (you can check this via Preview changes). They're here to help you complete issues quickly and in a way that will help other participants. If you're posting a new project, or challenge. We suggest you fill out the Google Forms first.
@@ -17,7 +17,7 @@ Please paste the metadata you received after submitting your project or challeng
 * **Region**: _What region is your project or challenge based out of, if any?_
 * **Issue Area:** _What area of Open Research or Open Education does your project or challenge fall under?_
 * **Issue Type:** _Are you submitting a challenge or project?_
-* **Types of Support Needed:** _{ For project leads only } What types of support are you looking for on the do-a-thon day? These categories will be emailed to you. 
+* **Types of Support Needed:** _{ For project leads only } What types of support are you looking for on the do-a-thon day? These categories will be emailed to you.
 
 ## Description
 [//]: # "=======================
@@ -31,12 +31,12 @@ Note: Challenge leads will not need to fill out this section and can remove it.
 ============================"
 
 ##  How can others contribute?
-[//]: # "======================= 
-Please say what the best way to contribute to the project or challenge is, sometimes that will just be 'lets discuss here' or 'Ive started a Google doc'. 
-If you are a challenge lead, give some context on what design thinking tools you will be using, and how other folks can update their ideas onto the thread. 
+[//]: # "=======================
+Please say what the best way to contribute to the project or challenge is, sometimes that will just be 'lets discuss here' or 'Ive started a Google doc'.
+If you are a challenge lead, give some context on what design thinking tools you will be using, and how other folks can update their ideas onto the thread.
 If you are a project lead, and you already have clear ways people can contribute it might be worth linking to them here.
-Language: If your project is regionally based in a non-English-speaking region, clarify here what language you and contributors will primarily be communicating in. 
-If you're leading a project or challenge participating remotely: Use this space to let people know that this is a remote project and that you are not 'in the room' in Berlin. Let other participants know what the best way to get in touch with you, where the work will happen, and where any updates or outputs will go. 
+Language: If your project is regionally based in a non-English-speaking region, clarify here what language you and contributors will primarily be communicating in.
+If you're leading a project or challenge participating remotely: Use this space to let people know that this is a remote project and that you are not 'in the room' in Berlin. Let other participants know what the best way to get in touch with you, where the work will happen, and where any updates or outputs will go.
 If you are at the in-person meeting in Berlin: Be as inclusive as possible to those outside the room.  Use this space to give clear instructions to those participating in the do-a-thon remotely on how they can keep up to date and contribute. ============================"
 
 [//]: # "=======================
@@ -47,4 +47,4 @@ You're ready to post!!! After posting your issue, the real work begins. Next, yo
 You'll get an email update whenever someone interacts with your issue.
 ============================"
 
-_This post is part of the OpenCon 2017 Do-A-Thon. Not sure what's going on? [Head here](http://doathon.opencon2017.org/)._
+_This post is part of the OpenCon Do-A-Thon. Not sure what's going on? [Head here](http://doathon.opencon2018.org/)._
