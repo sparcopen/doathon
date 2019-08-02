@@ -1,5 +1,5 @@
 
-_Confused? New to Github? Visit the [GitHub help page on our site for more information](http://doathon.opencon2018.org/)!_
+_Confused? New to Github? Visit the [GitHub help page on our site for more information](https://doathon.opencon2018.org/)!_
 
 [//]: # "=======================
 Even if you know Github well, we suggest you read this. Anything between these lines you can leave or delete, as they won't display anyway when you post (you can check this via Preview changes). They're here to help you complete issues quickly and in a way that will help other participants. If you're posting a new project, or challenge. We suggest you fill out the Google Forms first.
